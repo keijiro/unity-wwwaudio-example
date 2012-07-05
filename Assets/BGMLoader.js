@@ -18,7 +18,7 @@ private function TryLoadAndPlay() {
     yield www;
 
     if (www.error) {
-        message += "Not found. ("  + www.error + ")";
+        message += "Not found. ("  + www.error + ")\n";
     } else {
         audio.clip = www.GetAudioClip(false, false, AudioType.MPEG);
         audio.Play();
