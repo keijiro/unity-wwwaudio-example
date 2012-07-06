@@ -10,8 +10,8 @@ PlayerSettings:
   targetPlatform: 2
   targetResolution: 0
   accelerometerFrequency: 0
-  companyName: 
-  productName: wwwaudio
+  companyName: Unity Technologies Japan
+  productName: wwwaudio1
   AndroidLicensePublicKey: 
   defaultScreenWidth: 1024
   defaultScreenHeight: 768
@@ -58,7 +58,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  iPhoneBundleIdentifier: jp.unity3d.wwwaudio
+  iPhoneBundleIdentifier: jp.unity3d.wwwaudio1
   iPhoneBundleVersion: 1.0
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 6
